@@ -1,0 +1,35 @@
+* {
+    background-color: rgb(47, 47, 47);
+}
+
+.bighead {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 300%;
+    padding-left: 320px;
+}
+
+.txt {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(123, 226, 226);
+    font-size: 150%;
+}
+
+.smallerhead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: crimson;
+    font-size: 200%;
+    padding-left: 100px;
+}
+
+.nestedul {
+    color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+
+.bigul {
+    color: rgb(132, 132, 223);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 130%;
+}
